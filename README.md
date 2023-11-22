@@ -1,4 +1,4 @@
-This is a mining challenge 2023.
+This is the MSR Mining Challenge 2024.
 
 Contributers:
 Akhil Raj Tirumalasetty (AT21BO@fsu.edu)\
