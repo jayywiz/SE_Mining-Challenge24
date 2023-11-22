@@ -1,4 +1,4 @@
-This is a miniming challenge 2023.
+This is a mining challenge 2023.
 
 Contributers:
 Akhil Raj Tirumalasetty (AT21BO@fsu.edu)\
@@ -9,7 +9,7 @@ Our Research Questions:
 
 I.	    To what extent can ChatGPT effectively respond to various programming languages?\
 II.     To what extent can ChatGPT effectively respond to various programming languages?\
-III.	At what stage of the conversation on average does ChatGPT fails in particular coding language?
+III.	At what stage of the conversation on average does ChatGPT fail in a particular coding language?
 
 
 Our Introduction Video:\
