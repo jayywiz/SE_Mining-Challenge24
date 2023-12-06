@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 This is a mining challenge 2023.
 =======
 This is the MSR Mining Challenge 2024.
->>>>>>> 4064edfef70894cb515db8d9aaa0d76f9359d287
+
 
 Contributers:
 Akhil Raj Tirumalasetty (AT21BO@fsu.edu)\
