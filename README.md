@@ -12,7 +12,7 @@ Sruthijha Pagolu (SP23BU@fsu.edu)
 Our Research Questions:
 
 I.	    How accurately can we predict the length of a conversation with ChatGPT based on the initial prompt and context provided?\
-II.     To what extent can ChatGPT effectively respond to various programming languages?\
+II.     How satisfactory is the ChatGPT respond to various programming languages based on the developer's prompts?\
 III.	At what stage of the conversation on average does ChatGPT fail in a particular coding language?
 
 
