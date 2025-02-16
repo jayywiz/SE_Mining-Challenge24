@@ -4,14 +4,14 @@ This repository is part of the **MSR Mining Challenge 2024**, focusing on unders
 
 ---
 
-## 👥 Contributors
+## Contributors
 - **Akhil Raj Tirumalasetty** - [AT21BO@fsu.edu](mailto:AT21BO@fsu.edu)  
 - **Manikanta Mamidi** - [MM23BM@fsu.edu](mailto:MM23BM@fsu.edu)  
 - **Sruthijha Pagolu** - [SP23BU@fsu.edu](mailto:SP23BU@fsu.edu)  
 
 ---
 
-## 🔍 Research Questions
+## Research Questions
 1. **Conversation Length Prediction**  
    How accurately can the length of a conversation with ChatGPT be predicted based on the initial prompt and context?  
 
@@ -23,7 +23,7 @@ This repository is part of the **MSR Mining Challenge 2024**, focusing on unders
 
 ---
 
-## 📊 Methodology
+## Methodology
 - **Data Cleansing**: The dataset, originally 200MB, was reduced to 40MB using PowerShell, and further segmented for easier processing.  
 - **Data Integration**: Conversations were transformed into JSON format for structured analysis.  
 - **Sentiment Analysis**: The last 10% of conversations was analyzed for sentiment scoring (-1 to +1) to gauge user satisfaction.  
@@ -31,20 +31,20 @@ This repository is part of the **MSR Mining Challenge 2024**, focusing on unders
 
 ---
 
-## 🌟 Key Findings
+## Key Findings
 - Python emerged as the most frequently used programming language, with high user satisfaction levels.
 - Sentiment analysis provided valuable insights into user satisfaction across different programming languages.
 - Future work focuses on deeper analysis of failure points and enhancing ChatGPT’s performance in technical interactions.
 
 ---
 
-## 🎥 Videos
+## Videos
 - **Introduction Video**: [Watch here](https://youtu.be/L0FowLOs9Yk)  
 - **Final Video**: [Watch here](https://youtu.be/ksvfo56NMQQ)  
 
 ---
 
-## 📂 Dataset and Tools
+## Dataset and Tools
 - **Dataset**: JSON files are located in the `JSON` folder of this repository.  
 - **Tools**:  
   - **PowerShell**: For data cleaning and preprocessing.  
