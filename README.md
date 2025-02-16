@@ -1,4 +1,4 @@
-# 🛠️ MSR Mining Challenge 2024 - ChatGPT Conversational Capabilities Research
+# MSR Mining Challenge 2024 - ChatGPT Conversational Capabilities Research
 
 This repository is part of the **MSR Mining Challenge 2024**, focusing on understanding and improving ChatGPT's conversational capabilities, particularly in programming contexts. The research investigates ChatGPT's response accuracy, conversation length predictability, and performance deterioration points to enhance its reliability as a tool for developers.
 
@@ -52,5 +52,5 @@ This repository is part of the **MSR Mining Challenge 2024**, focusing on unders
 
 ---
 
-## 🔗 About the Challenge
+## About the Challenge
 The **MSR Mining Challenge 2024** is a platform for exploring software engineering challenges through the analysis of large-scale datasets. This project contributes to the understanding of AI chatbot interactions in technical domains, aiming to improve their reliability and usability.
